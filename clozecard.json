@@ -1,0 +1,5 @@
+{"text":"George Washington was the first President of the United States","cloze":"United States","partial":"George Washington was the first President of __________"}
+{"text":"The New York Mets last won the World Series in 1986","cloze":"1986","partial":"The New York Mets last won the World Series in __________"}
+{"text":"Mr. Met is the mascot of the New York Mets","cloze":"Mr. Met","partial":"__________ is the mascot of the New York Mets"}
+{"text":"Citi Field is the home of the New York Mets","cloze":"Citi Field","partial":"__________ is the home of the New York Mets"}{"text":"Today is Sunday.","cloze":"Sunday","partial":"Today is ..........."}
+{"text":"USA eliminated Dominican Republic in the World Baseball Classic.","cloze":"USA","partial":"__________ eliminated Dominican Republic in the World Baseball Classic."}
